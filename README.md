@@ -7,8 +7,8 @@
 
 ## Links to challenges
 
-- Challenge1 - [Roman Numeral Converter]()
+- Challenge1 - [Roman Numeral Converter](./Challenge1/)
 
 ## 📝 License
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./MIT.md) licensed.
