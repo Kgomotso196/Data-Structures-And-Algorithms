@@ -11,6 +11,7 @@
 - Challenge2 - [Boolean Primitives](./Challenges/Challenge2/)
 - Challenge3 - [Falsy Bouncer](./Challenges/Challenge3/)
 - Challenge4 - [Stack](./Challenges/Challenge4/)
+- Challenge5 - [Recursion](./Challenges/Challenge5/)
 
 ## 📝 License
 
