@@ -14,6 +14,7 @@
 - Challenge5 - [Recursion](./Challenges/Challenge5/)
 - Challenge6 - [Balanced Brackets](./Challenges/Challenge6/)
 - Challenge7 - [Fizz Buzz](./Challenges/Challenge7/)
+- Challenge8 - [Min Stack](./Challenges/Challenge8/)
 
 ## 📝 License
 
