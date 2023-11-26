@@ -16,6 +16,7 @@
 - Challenge7 - [Fizz Buzz](./Challenges/Challenge7/)
 - Challenge8 - [Min Stack](./Challenges/Challenge8/)
 - Challenge9 - [Tree Traversal](./Challenges/Challenge9/)
+- Challenge10 - [Queue](./Challenges/Challenge10/)
 
 ## 📝 License
 
