@@ -17,6 +17,7 @@
 - Challenge8 - [Min Stack](./Challenges/Challenge8/)
 - Challenge9 - [Tree Traversal](./Challenges/Challenge9/)
 - Challenge10 - [Queue](./Challenges/Challenge10/)
+- Challenge11 - [Binary Search](./Challenges/Challenge11/)
 
 ## 📝 License
 
