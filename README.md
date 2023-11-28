@@ -18,6 +18,7 @@
 - Challenge9 - [Tree Traversal](./Challenges/Challenge9/)
 - Challenge10 - [Queue](./Challenges/Challenge10/)
 - Challenge11 - [Binary Search](./Challenges/Challenge11/)
+- Challenge12 - [Sets](./Challenges/Challenge12/)
 
 ## 📝 License
 
