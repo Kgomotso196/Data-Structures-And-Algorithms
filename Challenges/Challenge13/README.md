@@ -6,4 +6,4 @@ Submit a pull request to the main branch with your solution. Do not modify the t
 
 ### Troubleshooting
 
-If you cannot see any auto-grading workflows on the [Actions](../../actions) page, learn how to fix it in [this repo](https://github.com/microverse-students/autograding-troubles-js/blob/main/README.md).                                            
+If you cannot see any auto-grading workflows on the [Actions](../../actions) page, learn how to fix it in [this repo](https://github.com/microverse-students/autograding-troubles-js/blob/main/README.md).                                           
