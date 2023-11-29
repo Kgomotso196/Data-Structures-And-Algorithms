@@ -19,6 +19,7 @@
 - Challenge10 - [Queue](./Challenges/Challenge10/)
 - Challenge11 - [Binary Search](./Challenges/Challenge11/)
 - Challenge12 - [Sets](./Challenges/Challenge12/)
+- Challenge13 - [Repeat A String](./Challenges/Challenge13/)
 
 ## 📝 License
 
