@@ -15,4 +15,4 @@
 
 ## 📝 License
 
-This project is [MIT](./MIT.md) licensed.                                                                                            
+This project is [MIT](./MIT.md) licensed.                                                                                           
